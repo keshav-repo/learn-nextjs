@@ -1,1 +1,1 @@
-# learn-nextjs
+## Next.js App Router Course - Starter
